@@ -1,2 +1,1 @@
-# bendolarian.github.io
 

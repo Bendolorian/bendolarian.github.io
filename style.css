@@ -16,3 +16,8 @@ body {
     animation-name: new;
     animation-duration: 6s;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }

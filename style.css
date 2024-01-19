@@ -31,6 +31,8 @@ ul
   }
  li a {
     display: block;
-    padding: 8px;
-    background-color: #dddddd;
+    color: azure;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
   }

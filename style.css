@@ -1,0 +1,18 @@
+body
+{
+background-color: lightblue;
+}
+h1
+{
+font-family: fantasy;
+}
+@keyframes new
+{
+    from {background-color:lightblue;}
+    to {background-color:coral}
+}
+body {
+    background-color: lightblue;
+    animation-name: new;
+    animation-duration: 6s;
+}

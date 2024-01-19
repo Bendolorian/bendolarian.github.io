@@ -25,6 +25,7 @@ ul
     overflow:hidden;
     background-color: black;
     color:azure
+    
 }
   li {
     float: left;
@@ -37,4 +38,5 @@ ul
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: fantasy;
  }

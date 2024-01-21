@@ -6,6 +6,10 @@ h1
 {
 font-family: fantasy;
 }
+h3
+{
+  font-family: 'Courier New', Courier, monospace;
+}
 @keyframes new
 {
     from {background-color:lightblue;}

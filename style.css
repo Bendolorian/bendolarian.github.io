@@ -61,7 +61,8 @@ nav a {
 }
 
 nav a:hover { 
-	background-color: greenyellow; 
+	background-color: greenyellow;
+  color: black; 
 }
 
 /* Hide Dropdowns by Default */

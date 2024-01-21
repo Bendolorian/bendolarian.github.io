@@ -10,6 +10,10 @@ h2
 {
   font-family: 'Courier New', Courier, monospace;
 }
+h3
+{
+  font-family: monospace;
+}
 @keyframes new
 {
     from {background-color:lightblue;}

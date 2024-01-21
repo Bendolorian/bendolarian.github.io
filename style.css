@@ -8,11 +8,12 @@ font-family: fantasy;
 }
 h2
 {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
 }
 h3
 {
   font-family: monospace;
+
 }
 @keyframes new
 {

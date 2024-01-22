@@ -1,7 +1,4 @@
-body
-{
-background-color: lightblue;
-}
+
 h1
 {
 font-family: fantasy;
@@ -14,17 +11,7 @@ h3
 {
   font-family: monospace;
 
-}
-@keyframes new
-{
-    from {background-color:lightblue;}
-    to {background-color:coral}
-}
-body {
-    background-color: lightblue;
-    animation-name: new;
-    animation-duration: 6s;
-}
+
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);

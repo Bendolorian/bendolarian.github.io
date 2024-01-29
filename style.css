@@ -4,6 +4,11 @@ table,th,tr
 	font-family: monospace;
 	}
 
+p
+{
+		font-family: monospace;
+	}
+
 body
 {
 background-color: lightblue;

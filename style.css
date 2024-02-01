@@ -1,12 +1,12 @@
 table,th,tr
  {
 	border: 1px solid black;
-	font-family: comic-sans;
+	font-family: monospace;
 	}
 
 p
 {
-		font-family: comic-sans;
+		font-family: monospace;
 	}
 
 body
@@ -15,7 +15,7 @@ background-color: lightblue;
 }
 h1
 {
-font-family: comic-sans;
+font-family: monospace;
 }
 h2
 {
@@ -42,7 +42,7 @@ body {
 
 a {
 	color: #FFF;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
 }
 
 

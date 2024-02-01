@@ -4,7 +4,7 @@ table,th,tr
 	font-family: monospace;
 	}
 
-th:hover {
+th a:hover {
 	color: greenyellow;
 }
 

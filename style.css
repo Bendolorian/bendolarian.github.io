@@ -4,6 +4,10 @@ table,th,tr
 	font-family: monospace;
 	}
 
+table:hover {
+	background-color: greenyellow;
+}
+
 p
 {
 		font-family: monospace;
@@ -118,9 +122,6 @@ nav ul ul ul li {
 li > a:after { content:  ' +'; }
 li > a:only-child:after { content: ''; }
 
-th:hover {
-	background-color: greenyellow;
 
-}
 
 

@@ -4,8 +4,8 @@ table,th,tr
 	font-family: monospace;
 	}
 
-table:hover {
-	background-color: greenyellow;
+th:hover {
+	color: greenyellow;
 }
 
 p

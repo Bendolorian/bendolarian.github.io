@@ -5,15 +5,6 @@ table,th,tr
 	}
 
 	
-	  
-h1:hover {
-		transform: scaleX(1);
-		transform-origin: bottom left;
-
-}
-	  
-	
-
 a:hover {
 	color: greenyellow;
 }

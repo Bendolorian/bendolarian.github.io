@@ -7,7 +7,7 @@ table,th,tr
 h1:hover {
 	
 	color: gold;
-	text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+	text-decoration: underline;
 	
 }
 
@@ -17,7 +17,7 @@ a:hover {
 
 p
 {
-		font-family: monospace;
+	font-family: monospace;
 	}
 
 body
@@ -36,6 +36,10 @@ h3
 {
   font-family: monospace;
 
+}
+h5
+{
+	font-family: monospace;
 }
 li
 {

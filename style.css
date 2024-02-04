@@ -4,15 +4,21 @@ table,th,tr
 	font-family: monospace;
 	}
 
+h1:hover {
 	
+	color: gold;
+	text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+	
+}
+
 a:hover {
 	color: greenyellow;
 }
 
 p
 {
-font-family: monospace;
-}
+		font-family: monospace;
+	}
 
 body
 {
@@ -50,8 +56,8 @@ body {
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
 a {
-color: #FFF;
-font-family: monospace;
+	color: #FFF;
+  font-family: monospace;
 }
 
 

@@ -11,8 +11,8 @@ a:hover {
 
 p
 {
-		font-family: monospace;
-	}
+font-family: monospace;
+}
 
 body
 {
@@ -50,8 +50,8 @@ body {
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
 a {
-	color: #FFF;
-  font-family: monospace;
+color: #FFF;
+font-family: monospace;
 }
 
 

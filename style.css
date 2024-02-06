@@ -12,8 +12,8 @@ h1:hover {
 }
 
 a:hover {
-	color: greenyellow;
-	background-color: black;
+	color: black;
+	background-color: greenyellow
 }
 
 p
